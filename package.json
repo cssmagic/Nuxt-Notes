@@ -1,0 +1,7 @@
+{
+	"name": "nuxt-notes",
+	"private": true,
+	"kup": {
+		"repo": "cssmagic/Nuxt-Notes"
+	}
+}
