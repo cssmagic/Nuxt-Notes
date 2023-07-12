@@ -1,0 +1,14 @@
+{
+  "_": "本文件用于声明路径别名，便于 VS Code 解析代码中的路径。",
+  "compilerOptions": {
+    "allowJs": true,
+    "baseUrl": "./",
+    "paths": {
+      "@/*": ["./*"]
+    }
+  },
+  "exclude": [
+    "node_modules",
+    ".nuxt"
+  ]
+}
