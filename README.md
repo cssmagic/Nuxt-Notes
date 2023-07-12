@@ -25,8 +25,8 @@
 <!-- > Nuxt 2 相关笔记已不再更新。 -->
 
 * [规范](https://github.com/cssmagic/Nuxt-Notes/issues/1)
-* 文件组织（待发布）
-* 依赖（待发布）
+* [文件组织](https://github.com/cssmagic/Nuxt-Notes/issues/2)
+* [依赖](https://github.com/cssmagic/Nuxt-Notes/issues/3)
 * CSS 开发（待发布）
 * 组件开发（待发布）
 * 中间件（待发布）
