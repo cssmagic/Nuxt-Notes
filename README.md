@@ -2,7 +2,7 @@
 
 > Nuxt 学习笔记，涵盖 Nuxt 2 和 Nuxt 3。
 >
-> 如涉及敏感信息，已用 `***` 替换。
+> 某些敏感信息已用 `***` 替换，可能导致链接不可访问，请见谅。
 
 
 
@@ -22,15 +22,15 @@
 
 ## Nuxt 2
 
-<!-- > Nuxt 2 相关笔记已不再更新。 -->
+> Nuxt 2 相关笔记已不再更新。
 
 * [规范](https://github.com/cssmagic/Nuxt-Notes/issues/1)
 * [文件组织](https://github.com/cssmagic/Nuxt-Notes/issues/2)
 * [依赖](https://github.com/cssmagic/Nuxt-Notes/issues/3)
-* CSS 开发（待发布）
-* 组件开发（待发布）
-* 中间件（待发布）
-* 插件（待发布）
+* [CSS 开发](https://github.com/cssmagic/Nuxt-Notes/issues/4)
+* [组件开发](https://github.com/cssmagic/Nuxt-Notes/issues/5)
+* [中间件](https://github.com/cssmagic/Nuxt-Notes/issues/6)
+* [插件](https://github.com/cssmagic/Nuxt-Notes/issues/7)
 
 
 ***
