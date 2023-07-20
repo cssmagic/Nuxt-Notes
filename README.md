@@ -16,6 +16,8 @@
 
 ## Nuxt 3
 
+> 持续更新中。
+
 * [准备工作与初步认识](https://github.com/cssmagic/Nuxt-Notes/issues/8)
 * [页面与路由](https://github.com/cssmagic/Nuxt-Notes/issues/9)
 * [中间件](https://github.com/cssmagic/Nuxt-Notes/issues/10)
