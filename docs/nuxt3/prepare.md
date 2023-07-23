@@ -3,7 +3,7 @@ id: 8
 tags: [Nuxt3]
 ---
 
-# 准备工作与初步认识
+# Nuxt 3 笔记：准备工作与初步认识
 
 ## 初始化
 
@@ -85,17 +85,17 @@ npx nuxi upgrade --force
 
 * 内置组件 `<ClientOnly>` 用来包裹只在客户端渲染的组件。它在服务端只会生成一个空的 `<span></span>` 标签。
 
-### Hook / Composable
+### Composable / Hook
 
-> 我们俗称的 “Hook” 在 Vue 生态中严格来说应该叫 “Composable”（组合式函数）。
+> 我们俗称的 “Hook” 在 Vue 生态中严格来说应该叫 “Composable”（组合式函数）。且 Nuxt 有自己的 hook 概念，因此为避免歧义，后文统一称作 “Composable”。
 
-* `composables` 目录中的所有 Hook 会自动导入。
+* `composables` 目录中的所有 Composable 会自动导入。
 
   > 可以关闭 IDE 的自动导入功能，以免生成不必要的代码。
 
-* Hook 文件需要具名导出函数。`export const useFoo = () => {}`
+* Composable 文件需要具名导出函数。`export const useFoo = () => {}`
 
-* 内置 Hook（也已自动导入）：
+* 内置 Composable（也已自动导入）：
   * `useAppConfig()` 获取 Nuxt 配置
   * `useAsyncData()` 用于请求异步数据
   * `useFecth()` 是对 `useAsyncData()` 的封装，更易用。

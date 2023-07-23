@@ -1,6 +1,6 @@
 # Nuxt-Notes
 
-> Nuxt 学习笔记，涵盖 Nuxt 2 和 Nuxt 3。
+> Nuxt 学习笔记，涵盖 Nuxt 3 和 Nuxt 2。
 >
 > 某些敏感信息已用 `***` 替换，可能导致链接不可访问，请见谅。
 
@@ -14,18 +14,19 @@
 
 
 
-## Nuxt 3
+## Nuxt 3 笔记
 
 > 持续更新中。
 
 * [准备工作与初步认识](https://github.com/cssmagic/Nuxt-Notes/issues/8)
 * [页面与路由](https://github.com/cssmagic/Nuxt-Notes/issues/9)
 * [中间件](https://github.com/cssmagic/Nuxt-Notes/issues/10)
+* [插件](https://github.com/cssmagic/Nuxt-Notes/issues/11)
 * ……
 
 
 
-## Nuxt 2
+## Nuxt 2 笔记
 
 > Nuxt 2 相关笔记已不再更新。
 
